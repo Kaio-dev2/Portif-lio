@@ -16,7 +16,7 @@ export function Hero() {
       <div className="container mx-auto max-w-5xl">
         <div className="space-y-8">
           <p className="text-sm text-muted-foreground font-mono">Olá, meu nome é</p>
-          <h1 className="text-5xl md:text-7xl font-bold text-balance">Seu Nome Aqui</h1>
+          <h1 className="text-5xl md:text-7xl font-bold text-balance">Kaio Richard Amaral Lisboa</h1>
           <h2 className="text-3xl md:text-5xl font-bold text-muted-foreground text-balance">
             Desenvolvedor de Sistemas
           </h2>
