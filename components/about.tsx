@@ -7,17 +7,17 @@ export function About() {
         <div className="space-y-6 text-muted-foreground leading-relaxed">
           <p className="text-pretty">
             Sou um desenvolvedor de sistemas apaixonado por tecnologia e resolução de problemas. Com experiência em
-            desenvolvimento full-stack, trabalho criando soluções que combinam design intuitivo com engenharia robusta.
+            desenvolvimento Back-End, trabalho criando soluções de problemas atraves de sistemas.
           </p>
 
           <p className="text-pretty">
-            Minha jornada na programação começou há vários anos, e desde então venho me dedicando a aprender novas
+            Minha jornada na programação começou no início de 2025, e desde então venho me dedicando a aprender novas
             tecnologias e aprimorar minhas habilidades. Tenho experiência em trabalhar com equipes multidisciplinares
             para entregar produtos de alta qualidade.
           </p>
 
           <p className="text-pretty">
-            Atualmente, estou focado em desenvolvimento web moderno, arquitetura de microsserviços e boas práticas de
+            Atualmente, estou focado em desenvolvimento de sistemas moderno, arquitetura de microsserviços e boas práticas de
             engenharia de software. Estou sempre buscando novos desafios e oportunidades para crescer profissionalmente.
           </p>
         </div>

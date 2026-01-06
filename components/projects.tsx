@@ -4,37 +4,36 @@ import { ExternalLink, Github } from "lucide-react"
 
 const projects = [
   {
-    title: "Sistema de E-commerce",
+    title: "Manipulação de Vetores",
     description:
-      "Plataforma completa de e-commerce com painel administrativo, carrinho de compras, pagamentos integrados e gestão de estoque.",
-    tech: ["Next.js", "PostgreSQL", "Stripe", "Tailwind CSS"],
-    image: "/modern-ecommerce-dashboard.png",
+      "Programa desenvolvido em C para gerenciamento de um vetor de números inteiros, com foco no aprendizado de manipulação de arrays, estruturas de controle e interação via console.O sistema oferece operações básicas de CRUD, validações de entrada e uma lógica de saída controlada, reforçando boas práticas de programação e uso consciente dos dados.",
+    tech: ["C"],
+    image: "/",
     github: "#",
     demo: "#",
   },
   {
-    title: "API REST Escalável",
-    description: "API REST robusta com autenticação JWT, rate limiting, documentação Swagger e testes automatizados.",
-    tech: ["Node.js", "Express", "MongoDB", "Redis"],
-    image: "/api-documentation-interface.png",
+    title: "Jogo de Aposta (Macaco Milionário) - Terminal",
+    description: "Jogo simples desenvolvido em Python, baseado em um sistema de apostas por rodadas, onde o jogador gerencia saldo, define valores de aposta e tenta obter combinações vencedoras para ganhar prêmios.O projeto trabalha lógica de programação, controle de fluxo, validação de entradas e geração de resultados aleatórios, com interação direta via terminal.",
+    tech: ["Python"],
+    image: "/",
     github: "#",
     demo: "#",
   },
   {
-    title: "Dashboard Analytics",
-    description: "Dashboard interativo para análise de dados em tempo real com gráficos dinâmicos e filtros avançados.",
-    tech: ["React", "TypeScript", "D3.js", "WebSocket"],
-    image: "/analytics-dashboard-charts.png",
+    title: "Jogo da Pedra Papel e Tesoura Multiplayer",
+    description: "AO desenvolvimento do código, justifica-se pela necessidade de um jogo multiplayer de pedra, papel e tesoura entre duas pessoas rodando o mesmo código em máquinas diferentes, estando conectadas no mesmo servidor..",
+    tech: ["Python","Redis"],
+    image: "/",
     github: "#",
     demo: "#",
   },
-  {
-    title: "App de Gestão de Tarefas",
-    description:
-      "Aplicação de gerenciamento de projetos com funcionalidades de kanban, calendário e colaboração em equipe.",
-    tech: ["Next.js", "Prisma", "PostgreSQL", "tRPC"],
-    image: "/project-management-kanban-board.png",
-    github: "#",
+{
+    title: "Sistema de Gerenciamento de Estoques",
+    description: "Sistema desenvolvido em Python com SQLite, focado no controle de estoque, registro de vendas, gerenciamento de usuários e geração de relatórios financeiros.m hash de senha e lógica de negócios, simulando um ambiente real de gestão comercial.",
+    tech: ["Python","SQLite3"],
+    image: "https://miro.medium.com/1*9oq7pQsxHMD_2L7m_nPjsw.png",
+    github: "https://github.com/Kaio-dev2/Sistema_de_Gerenciamento_de_Estoques.git",
     demo: "#",
   },
 ]

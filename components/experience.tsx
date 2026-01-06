@@ -3,39 +3,15 @@ import { Briefcase, Calendar } from "lucide-react"
 
 const experiences = [
   {
-    title: "Desenvolvedor Full-Stack Sênior",
-    company: "Tech Company",
-    period: "2022 - Presente",
+    title: "Analista de Dados",
+    company: "Thyssenkrupp Marine System Brasil e Sul - Itajaí/SC",
+    period: "2025 - Presente",
     description:
-      "Desenvolvimento de aplicações web escaláveis usando React, Next.js e Node.js. Liderança técnica de equipe e mentoria de desenvolvedores júnior.",
+      " Atuação na organização, análise e interpretação de dados, utilizando Excel como principal ferramenta para tratamento de informações, criação de planilhas estruturadas, relatórios e indicadores. Experiência com fórmulas, tabelas dinâmicas, gráficos e automações básicas em VBA, com foco em otimizar processos e reduzir tarefas manuais.",
     achievements: [
-      "Reduziu tempo de carregamento em 40% através de otimizações",
-      "Implementou arquitetura de microsserviços",
-      "Mentoria de 5 desenvolvedores júnior",
-    ],
-  },
-  {
-    title: "Desenvolvedor Full-Stack",
-    company: "Digital Agency",
-    period: "2020 - 2022",
-    description:
-      "Desenvolvimento de soluções web personalizadas para diversos clientes. Trabalho com múltiplas tecnologias e frameworks.",
-    achievements: [
-      "Entregou +15 projetos com sucesso",
-      "Implementou CI/CD pipelines",
-      "Melhorou performance de aplicações legadas",
-    ],
-  },
-  {
-    title: "Desenvolvedor Junior",
-    company: "Startup XYZ",
-    period: "2018 - 2020",
-    description:
-      "Desenvolvimento frontend e backend de aplicações web. Aprendizado contínuo e trabalho em equipe ágil.",
-    achievements: [
-      "Contribuiu para produto principal da empresa",
-      "Participou de decisões de arquitetura",
-      "Desenvolveu features end-to-end",
+      "Criação de Arquivo Macro para Manipulação de Dados entre arquivos e automações de Tarefas",
+      "Criação de Arquivo Macro para Apresentação de Dados Query filtrados de outros arquivos com gráficos",
+      "Desenvolvimento de comunicação clara e objetiva para discussão de dados, alinhamento de projetos de automação e participação em reuniões técnicas com a equipe.",
     ],
   },
 ]
