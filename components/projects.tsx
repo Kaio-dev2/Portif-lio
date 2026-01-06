@@ -9,7 +9,7 @@ const projects = [
       "Programa desenvolvido em C para gerenciamento de um vetor de números inteiros, com foco no aprendizado de manipulação de arrays, estruturas de controle e interação via console.O sistema oferece operações básicas de CRUD, validações de entrada e uma lógica de saída controlada, reforçando boas práticas de programação e uso consciente dos dados.",
     tech: ["C"],
     image: "/",
-    github: "#",
+    github: "https://github.com/Kaio-dev2/Manipula-o_de_Vetores.C.git",
     demo: "#",
   },
   {
@@ -17,7 +17,7 @@ const projects = [
     description: "Jogo simples desenvolvido em Python, baseado em um sistema de apostas por rodadas, onde o jogador gerencia saldo, define valores de aposta e tenta obter combinações vencedoras para ganhar prêmios.O projeto trabalha lógica de programação, controle de fluxo, validação de entradas e geração de resultados aleatórios, com interação direta via terminal.",
     tech: ["Python"],
     image: "/",
-    github: "#",
+    github: "https://github.com/Kaio-dev2/jogo_macaco_milionario.git",
     demo: "#",
   },
   {
@@ -25,7 +25,7 @@ const projects = [
     description: "AO desenvolvimento do código, justifica-se pela necessidade de um jogo multiplayer de pedra, papel e tesoura entre duas pessoas rodando o mesmo código em máquinas diferentes, estando conectadas no mesmo servidor..",
     tech: ["Python","Redis"],
     image: "/",
-    github: "#",
+    github: "https://github.com/Kaio-dev2/Game-PPT_RedisDB.git",
     demo: "#",
   },
 {
