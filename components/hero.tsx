@@ -22,7 +22,7 @@ export function Hero() {
           </h2>
 
           <p className="text-lg text-muted-foreground max-w-2xl leading-relaxed text-pretty">
-            EDesenvolvedor Back-End em formação, com foco na construção de aplicações eficientes e bem estruturadas.Possuo base em Python, C. Java, VBA, lógica de programação e bancos de dados, buscando evoluir continuamente por meio de projetos práticos e aprendizado constante.
+            Desenvolvedor Back-End em formação, com foco na construção de aplicações eficientes e bem estruturadas.Possuo base em Python, C. Java, VBA, lógica de programação e bancos de dados, buscando evoluir continuamente por meio de projetos práticos e aprendizado constante.
           </p>
 
           <div className="flex flex-wrap gap-4">
