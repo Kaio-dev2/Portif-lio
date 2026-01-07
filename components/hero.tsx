@@ -36,7 +36,7 @@ export function Hero() {
 
           <div className="flex gap-4 pt-4">
             <a
-              href="https://github.com"
+              href="https://github.com/Kaio-dev2"
               target="_blank"
               rel="noopener noreferrer"
               className="p-2 rounded-lg hover:bg-secondary transition-colors"
@@ -45,7 +45,7 @@ export function Hero() {
               <Github size={24} />
             </a>
             <a
-              href="https://linkedin.com"
+              href="https://www.linkedin.com/in/Kaio-richard-dev2/"
               target="_blank"
               rel="noopener noreferrer"
               className="p-2 rounded-lg hover:bg-secondary transition-colors"
@@ -54,7 +54,7 @@ export function Hero() {
               <Linkedin size={24} />
             </a>
             <a
-              href="mailto:seu.email@exemplo.com"
+              href="kaiorichard1145@gmail.com"
               className="p-2 rounded-lg hover:bg-secondary transition-colors"
               aria-label="Email"
             >
